@@ -9,6 +9,7 @@
     padding: 2rem;
     display: flex;
     align-items: center;
+    margin-bottom: 2rem;
 
     .image {
       width: 6rem;

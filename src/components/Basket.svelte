@@ -47,9 +47,6 @@
 
   main {
     margin-top: 4rem;
-    > :global(*:not(:last-child)) {
-      margin-bottom: 2rem !important;
-    }
   }
 </style>
 
