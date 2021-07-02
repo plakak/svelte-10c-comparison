@@ -1,6 +1,6 @@
 <style lang="scss">
   .form-input {
-    margin-top: 1.5rem;
+    margin-top: 2rem;
 
     input {
       background-color: #6368c6;
@@ -20,6 +20,7 @@
     }
 
     .error {
+      position: absolute;
       font-size: 10px;
       color: lighten(tomato, 10%);
     }
